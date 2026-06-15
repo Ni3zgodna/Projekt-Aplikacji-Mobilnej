@@ -21,3 +21,7 @@ Tydzień	Gra interaktywna inspirowana „Pou”
 13 – 02.06	Dodanie przeszkód
 14 - 16.06	Ekran końcowy
 
+Po pobraniu plików z repozytorium należy utworzyć nowy projekt w środowisku Android Studio. Następnie pliki źródłowe napisane w języku Kotlin (.kt) należy skopiować do katalogu app/src/main/java, zachowując odpowiednią strukturę pakietów.
+Folder drawable zawierający zasoby graficzne należy umieścić w katalogu app/src/main/res, zastępując lub uzupełniając istniejące pliki.
+Po skopiowaniu wszystkich plików należy zsynchronizować projekt z systemem Gradle, a następnie uruchomić aplikację za pomocą przycisku Run.
+
